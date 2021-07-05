@@ -1,12 +1,4 @@
-#howWeMet{
-    font-size: 18px;
-}
-
-#rsvp{
+#rsvpBtn{
     text-align: center;
-}
-
-.date{
-    font-size: 18px;
-    color: rgb(218, 56, 218);
+    padding-bottom: 150px;
 }
